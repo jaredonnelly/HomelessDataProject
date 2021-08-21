@@ -1,4 +1,6 @@
-## Created by Jolene Ciccarone and Jared Donnelly in collaboration with the Stevens AIRS Fellowship
+## A Stevens AIRS Fellowship Project
+
+Created by Jolene Ciccarone and Jared Donnelly under the guidance of their mentor Dr. Samantha Kleinberg. 
 
 Inspired by the work of countless volunteers in the fight against homelessness, our project seeks to provide a predictive model to estimate the future homeless population. By using publicly available data, below showcases the work for our proof of concept for our model. Additionally we provide sources for our research and data, analysis of model performance, and reccomendations for future research in the space.
 
