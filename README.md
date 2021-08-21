@@ -1,12 +1,34 @@
-## Welcome to GitHub Pages
+## Created by Jolene Ciccarone and Jared Donnelly in collaboration with the Stevens AIRS Fellowship
 
-You can use the [editor on GitHub](https://github.com/jaredonnelly/HomelessDataProject/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Inspired by the work of countless volunteers in the fight against homelessness, our project seeks to provide a predictive model to estimate the future homeless population. By using publicly available data, below showcases the work for our proof of concept for our model. Additionally we provide sources for our research and data, analysis of model performance, and reccomendations for future research in the space.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Model Performance
 
-### Markdown
+Our model works, and we should add visualizations here, it would also be good to include metrics and some analysis of its performance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Code Break Down 
+
+We should insert snipbits of our code and process here, discussing pieces and parts that we developed and learned. It is good to remember that the code is already publicly available
+
+```markdown
+Code would go here
+```
+
+Analysis would go here
+
+### Reccomendations for Future Research
+
+We should include a breif paragraph about the future work that could be done and perhaps highlight other work being done with homelessness data to help the community such as the papers we read by Eric Rice.
+
+### Data Sources
+
+Include links to our data.
+
+### Additional Resources
+
+Include links to any other sources
+
+## Syntax Reference Guide
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +48,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaredonnelly/HomelessDataProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
