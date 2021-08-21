@@ -6,7 +6,14 @@ Below we cover a proof of concept for a predictive model to estimate the size of
 
 ### Model Performance
 
-Our model works, and we should add visualizations here, it would also be good to include metrics and some analysis of its performance.
+The current version of our model uses 4 factors: Max Temperature, Precipitation, Unemployment Rate, and Number of Public High School Graduates. We use these factors to estimate characteristics from the public New York Daily Public Shelter Data such as Number of Families in Shelter. Please check our 'Data Sources' section for more information on where our data came from. 
+
+Here is an example of a set of estimations from our test data compared to the actual values.
+```markdown
+insert table here
+```
+
+Overall our factors can explain 58% of the varriation within our data according to the coeffiecent of determination (r-squared). We still believe the model is usefully because it 
 
 ### Code Break Down 
 
