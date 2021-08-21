@@ -2,7 +2,7 @@
 
 Created by [Jolene Ciccarone](https://www.linkedin.com/in/jolene-ciccarone-357b681b5/) and [Jared Donnelly](https://www.linkedin.com/in/jaredonnelly/) under the guidance of their mentor [Dr. Samantha Kleinberg](http://www.skleinberg.org/). 
 
-Inspired by the work of countless volunteers in the fight against homelessness, our project seeks to provide a predictive model to estimate the future homeless population. By using publicly available data, below showcases the work for our proof of concept for our model. Additionally we provide sources for our research and data, analysis of model performance, and reccomendations for future research in the space.
+Below we cover a proof of concept for a predictive model to estimate the size of homeless populations using publicly available data for NYC.
 
 ### Model Performance
 
