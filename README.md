@@ -1,6 +1,6 @@
 ## A Stevens AIRS Fellowship Project
 
-Created by [Jolene Ciccarone](https://www.linkedin.com/in/jolene-ciccarone-357b681b5/) and [Jared Donnelly](https://www.linkedin.com/in/jaredonnelly/) under the guidance of their mentor [Dr. Samantha Kleinberg](http://www.skleinberg.org/). 
+Created by [Jolene Ciccarone](https://www.linkedin.com/in/jolene-ciccarone-357b681b5/) and [Jared Donnelly](https://www.linkedin.com/in/jaredonnelly/) under the guidance of their mentor [Dr. Samantha Kleinberg](http://www.skleinberg.org/) and [Dr. Jason Corso](https://www.linkedin.com/in/jason-corso-95b66a24/). 
 
 Below we cover a proof of concept for a predictive model to estimate the size of homeless populations using publicly available data for NYC.
 
@@ -27,7 +27,7 @@ Analysis would go here
 
 ### Reccomendations for Future Research
 
-We should include a breif paragraph about the future work that could be done and perhaps highlight other work being done with homelessness data to help the community such as the papers we read by Eric Rice.
+In the future we would like to see similar projects expanded to other cities and communities. Furthermore, work can be done specifically for improving the effectiveness of programs such as the work done by Dr. Eric Rice when designing a new method for selecting peer leaders.
 
 ### Data Sources
 
